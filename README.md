@@ -32,7 +32,7 @@ python src/main.py
 ```
 ---
 
-## 🛠️ Requirements
+##  Requirements
 - Python 3.x
 - NumPy
 - Matplotlib
@@ -44,10 +44,6 @@ pip install -r requirements.txt
 
 ---
 
-##  License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ##  Notes
 - This project was developed as **Assignment 1** of the Artificial Intelligence course.  
